@@ -1,5 +1,6 @@
-# Coffee Store Sales Analysis!
+![Coffee Store Sales](images%20(4).jpeg)
 
+# Coffee Store Sales Analysis!
 
 This project explores sales data from a coffee store to understand sales trends and forecast performance. It includes predictive modeling to help guide business decisions and identify top-performing products.
 
