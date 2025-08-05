@@ -1,4 +1,5 @@
-# Coffee Store Sales Analysis
+# Coffee Store Sales Analysis!(https://github.com/user-attachments/assets/587e1f91-13fb-4faf-961f-67334b89ae03)
+
 
 This project explores sales data from a coffee store to understand sales trends and forecast performance. It includes predictive modeling to help guide business decisions and identify top-performing products.
 
