@@ -58,4 +58,4 @@ This project explores sales data from a coffee store to understand sales trends 
 - Build an interactive dashboard.
 
 ## 📬 Contact
-For any questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/Mrez2/coffee-store-sales/issues).
+For any questions or suggestions, feel free to reach out via [Nightrezk@gmail.com](https://github.com/Mrez2/coffee-store-sales/issues).
