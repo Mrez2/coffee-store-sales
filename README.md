@@ -1,4 +1,4 @@
-Life starts after coffee..!
+# ☕Life starts after coffee..!
 ![Coffee Store Sales](images%20(4).jpeg)
 
 # Coffee Store Sales Analysis!
